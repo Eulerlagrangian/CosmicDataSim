@@ -1,0 +1,5 @@
+/* This is just to ensure the directory exists for the textures */
+.planet-texture {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
